@@ -1,0 +1,5 @@
+{
+  "name": "MATRIX - Mass Spectrometry Analysis Dashboard",
+  "description": "A high-performance, intuitive dashboard for Mass Spectrometry data analysis, specializing in mineral composition and peak differentiation.",
+  "requestFramePermissions": []
+}
